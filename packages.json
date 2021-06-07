@@ -25,10 +25,10 @@
   },
   {
     "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/epiforecasts/scoringutils"
+    "url": "https://github.com/epiforecasts/scoringutils"
   },
   {
     "package": "stackr",
-    "url": "https://github.com/epiforecasts/epiforecasts/stackr"
+    "url": "https://github.com/epiforecasts/stackr"
   }
 ]
