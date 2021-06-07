@@ -1,0 +1,34 @@
+[
+  {
+    "package": "EpiSoon",
+    "url": "https://github.com/epiforecasts/EpiSoon"
+  },
+  {
+    "package": "EpiNow",
+    "url": "https://github.com/epiforecasts/EpiNow"
+  },
+  {
+    "package": "EpiNow2",
+    "url": "https://github.com/epiforecasts/EpiNow2"
+  },
+  {
+    "package": "RtD3",
+    "url": "https://github.com/epiforecasts/RtD3"
+  },
+  {
+    "package": "covidregionaldata",
+    "url": "https://github.com/epiforecasts/covidregionaldata"
+  },
+  {
+    "package": "covid19.nhs.data",
+    "url": "https://github.com/epiforecasts/covid19.nhs.data"
+  },
+  {
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/epiforecasts/scoringutils"
+  },
+  {
+    "package": "stackr",
+    "url": "https://github.com/epiforecasts/epiforecasts/stackr"
+  }
+]
