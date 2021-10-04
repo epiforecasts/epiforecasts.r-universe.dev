@@ -38,5 +38,9 @@
   {
     "package": "covid19.forecasts.uk",
     "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
+  },
+  {
+    "package": "forecast.vocs",
+    "url": "https://github.com/epiforecasts/forecast.vocs"
   }
 ]
