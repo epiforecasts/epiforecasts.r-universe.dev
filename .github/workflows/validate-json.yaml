@@ -1,6 +1,10 @@
 name: Validate JSONs
 
-on: [pull_request]
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
 
 jobs:
   valite-json:
