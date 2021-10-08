@@ -9,7 +9,7 @@ The file [`packages.json`](packages.json) contains a list of packages that will 
 
 You can add any 'package-like' repository in [`packages.json`](packages.json) (e.g., R packages but also R research compendia, bookdown projects, etc.). As long as it can be built with `R CMD build`, it can be added here. Please refer to [the official documentation](https://r-universe.dev/help/) to learn how you can build from a specific branch, specific subfolder or any other non-standard case.
 
-Thanks to R-universe, you can now provide your users with an easy way to install the development version of your packages or projects that are not hosted on CRAN. Instead of recommending `draft` or:
+Thanks to R-universe, you can now provide your users with an easy way to install the development version of your packages or projects that are not hosted on CRAN. Instead of recommending `drat` or:
 
 ```r
 remotes::install_github("epiforecasts/yourproject")
