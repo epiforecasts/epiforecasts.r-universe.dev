@@ -1,5 +1,8 @@
 # Epiforecasts R-universe
 
+![Current status of epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:registry)
+![Total of packages on epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:total)
+
 ### Note to @epiforecasts team members
 
 The file [`packages.json`](packages.json) contains a list of packages that will be automatically built and made available on https://epiforecasts.r-universe.dev/, including binaries for the relevant platforms.
