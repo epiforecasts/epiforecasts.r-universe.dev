@@ -1,7 +1,7 @@
 # Epiforecasts R-universe
 
-![Current status of epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:registry)
-![Total of packages on epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:total)
+[![Current status of epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:registry)](https://github.com/r-universe/epiforecasts)
+[![Total of packages on epiforecasts R-universe](https://epiforecasts.r-universe.dev/badges/:total)](https://epiforecasts.r-universe.dev/)
 
 ### Note to @epiforecasts team members
 
