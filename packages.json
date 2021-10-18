@@ -42,5 +42,9 @@
   {
     "package": "forecast.vocs",
     "url": "https://github.com/epiforecasts/forecast.vocs"
+  },
+  {
+    "package": "ForecastHubValidations",
+    "url" : "https://github.com/epiforecasts/ForecastHubValidations"
   }
 ]
