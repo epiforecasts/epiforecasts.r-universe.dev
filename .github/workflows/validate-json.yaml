@@ -7,7 +7,7 @@ on:
     branches: [main, master]
 
 jobs:
-  valite-json:
+  validate-json:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
