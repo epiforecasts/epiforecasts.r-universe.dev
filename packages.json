@@ -8,6 +8,10 @@
     "url": "https://github.com/epiforecasts/EpiNow"
   },
   {
+    "package": "epinowcast",
+    "url": "https://github.com/epiforecasts/epinowcast"
+  },
+  {
     "package": "EpiNow2",
     "url": "https://github.com/epiforecasts/EpiNow2"
   },
