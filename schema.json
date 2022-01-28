@@ -24,7 +24,7 @@
           "type": "string"
         },
         "display_website": {
-          "description": "Should this package be displayed on the epiforecasts.io website?"
+          "description": "Should this package be displayed on the epiforecasts.io website?",
           "type": "boolean"
         }
       },
