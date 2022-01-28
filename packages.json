@@ -33,7 +33,8 @@
   },
   {
     "package": "idbrms",
-    "url": "https://github.com/epiforecasts/idbrms"
+    "url": "https://github.com/epiforecasts/idbrms",
+    "display_website": false
   },
   {
     "package": "covid19.forecasts.uk",
