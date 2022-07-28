@@ -9,7 +9,8 @@
   },
   {
     "package": "epinowcast",
-    "url": "https://github.com/epiforecasts/epinowcast"
+    "url": "https://github.com/epiforecasts/epinowcast",
+    "display_website": true
   },
   {
     "package": "EpiNow2",
