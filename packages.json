@@ -1,76 +1,91 @@
 [
   {
     "package": "EpiSoon",
-    "url": "https://github.com/epiforecasts/EpiSoon"
+    "url": "https://github.com/epiforecasts/EpiSoon",
+    "branch": "*release"
   },
   {
     "package": "EpiNow",
-    "url": "https://github.com/epiforecasts/EpiNow"
+    "url": "https://github.com/epiforecasts/EpiNow",
+    "branch": "*release"
   },
   {
     "package": "epinowcast",
     "url": "https://github.com/epiforecasts/epinowcast",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "EpiNow2",
     "url": "https://github.com/epiforecasts/EpiNow2",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "RtD3",
-    "url": "https://github.com/epiforecasts/RtD3"
+    "url": "https://github.com/epiforecasts/RtD3",
+    "branch": "*release"
   },
   {
     "package": "covidregionaldata",
     "url": "https://github.com/epiforecasts/covidregionaldata",
-    "display_website": true
+    "branch": "*release"
   },
   {
     "package": "covid19.nhs.data",
     "url": "https://github.com/epiforecasts/covid19.nhs.data",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "idbrms",
-    "url": "https://github.com/epiforecasts/idbrms"
+    "url": "https://github.com/epiforecasts/idbrms",
+    "branch": "*release"
   },
   {
     "package": "covid19.forecasts.uk",
-    "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
+    "url": "https://github.com/epiforecasts/covid19.forecasts.uk",
+    "branch": "*release"
   },
   {
     "package": "forecast.vocs",
-    "url": "https://github.com/epiforecasts/forecast.vocs"
+    "url": "https://github.com/epiforecasts/forecast.vocs",
+    "branch": "*release"
   },
   {
     "package": "socialmixr",
     "url": "https://github.com/epiforecasts/socialmixr",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "epimixr",
     "url": "https://github.com/sbfnk/epimixr",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "rbi",
     "url": "https://github.com/sbfnk/RBi",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "rbi.helpers",
     "url": "https://github.com/sbfnk/rbi.helpers",
+    "branch": "*release",
     "display_website": true
   },
   {
     "package": "qra",
     "url": "https://github.com/epiforecasts/qra",
+    "branch": "*release",
     "display_website": true
   }
 ]
