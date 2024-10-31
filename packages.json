@@ -2,12 +2,12 @@
   {
     "package": "EpiSoon",
     "url": "https://github.com/epiforecasts/EpiSoon"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "EpiNow",
     "url": "https://github.com/epiforecasts/EpiNow"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "epinowcast",
@@ -29,8 +29,7 @@
   {
     "package": "covidregionaldata",
     "url": "https://github.com/epiforecasts/covidregionaldata",
-    "branch": "*release",
-    "display_website": true
+    "branch": "*release"
   },
   {
     "package": "covid19.nhs.data",
@@ -47,17 +46,17 @@
   {
     "package": "idbrms",
     "url": "https://github.com/epiforecasts/idbrms"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "covid19.forecasts.uk",
     "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "forecast.vocs",
     "url": "https://github.com/epiforecasts/forecast.vocs"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "socialmixr",
