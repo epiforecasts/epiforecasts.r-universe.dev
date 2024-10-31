@@ -24,7 +24,7 @@
   {
     "package": "RtD3",
     "url": "https://github.com/epiforecasts/RtD3"
-    "branch": "*release",
+    "branch": "*release"
   },
   {
     "package": "covidregionaldata",
