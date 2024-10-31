@@ -1,12 +1,12 @@
 [
   {
     "package": "EpiSoon",
-    "url": "https://github.com/epiforecasts/EpiSoon"
+    "url": "https://github.com/epiforecasts/EpiSoon",
     "branch": "*release"
   },
   {
     "package": "EpiNow",
-    "url": "https://github.com/epiforecasts/EpiNow"
+    "url": "https://github.com/epiforecasts/EpiNow",
     "branch": "*release"
   },
   {
@@ -23,7 +23,7 @@
   },
   {
     "package": "RtD3",
-    "url": "https://github.com/epiforecasts/RtD3"
+    "url": "https://github.com/epiforecasts/RtD3",
     "branch": "*release"
   },
   {
@@ -45,17 +45,17 @@
   },
   {
     "package": "idbrms",
-    "url": "https://github.com/epiforecasts/idbrms"
+    "url": "https://github.com/epiforecasts/idbrms",
     "branch": "*release"
   },
   {
     "package": "covid19.forecasts.uk",
-    "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
+    "url": "https://github.com/epiforecasts/covid19.forecasts.uk",
     "branch": "*release"
   },
   {
     "package": "forecast.vocs",
-    "url": "https://github.com/epiforecasts/forecast.vocs"
+    "url": "https://github.com/epiforecasts/forecast.vocs",
     "branch": "*release"
   },
   {
