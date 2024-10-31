@@ -67,5 +67,10 @@
     "package": "rbi.helpers",
     "url": "https://github.com/sbfnk/rbi.helpers",
     "display_website": true
+  },
+  {
+    "package": "qra",
+    "url": "https://github.com/epiforecasts/qra",
+    "display_website": true
   }
 ]
