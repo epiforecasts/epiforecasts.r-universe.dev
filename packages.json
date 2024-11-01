@@ -12,8 +12,7 @@
   {
     "package": "epinowcast",
     "url": "https://github.com/epiforecasts/epinowcast",
-    "branch": "*release",
-    "display_website": true
+    "branch": "*release"
   },
   {
     "package": "EpiNow2",
@@ -45,13 +44,11 @@
   },
   {
     "package": "idbrms",
-    "url": "https://github.com/epiforecasts/idbrms",
-    "branch": "*release"
+    "url": "https://github.com/epiforecasts/idbrms"
   },
   {
     "package": "covid19.forecasts.uk",
-    "url": "https://github.com/epiforecasts/covid19.forecasts.uk",
-    "branch": "*release"
+    "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
   },
   {
     "package": "forecast.vocs",
