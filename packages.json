@@ -80,8 +80,8 @@
     "display_website": true
   },
   {
-    "package": "qra",
-    "url": "https://github.com/epiforecasts/qra",
+    "package": "qrensemble",
+    "url": "https://github.com/epiforecasts/qrensemble",
     "branch": "*release",
     "display_website": true
   },
