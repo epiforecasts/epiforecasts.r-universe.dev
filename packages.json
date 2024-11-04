@@ -80,12 +80,6 @@
     "display_website": true
   },
   {
-    "package": "qrensemble",
-    "url": "https://github.com/epiforecasts/qrensemble",
-    "branch": "*release",
-    "display_website": true
-  },
-  {
     "package": "stackr",
     "url": "https://github.com/epiforecasts/stackr",
     "branch": "*release",
