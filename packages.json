@@ -90,7 +90,7 @@
     "url": "https://github.com/epiforecasts/stackr",
     "branch": "*release",
     "display_website": true
-  }
+  },
   {
     "package": "nfidd",
     "url": "https://github.com/nfidd/nfidd",
