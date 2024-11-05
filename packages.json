@@ -91,5 +91,9 @@
     "branch": "*release",
     "display_website": true
   }
-
+  {
+    "package": "nfidd",
+    "url": "https://github.com/nfidd/nfidd",
+    "branch": "*release"
+  }
 ]
