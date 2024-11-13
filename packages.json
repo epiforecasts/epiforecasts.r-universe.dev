@@ -95,5 +95,10 @@
     "package": "nfidd",
     "url": "https://github.com/nfidd/nfidd",
     "branch": "*release"
+  },
+  {
+    "package": "stanedit",
+    "url": "https://github.com/epiforecasts/stanedit",
+    "branch": "*release"
   }
 ]
