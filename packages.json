@@ -5,11 +5,6 @@
     "branch": "*release"
   },
   {
-    "package": "EpiNow",
-    "url": "https://github.com/epiforecasts/EpiNow",
-    "branch": "*release"
-  },
-  {
     "package": "epinowcast",
     "url": "https://github.com/epiforecasts/epinowcast",
     "branch": "*release"
