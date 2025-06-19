@@ -86,8 +86,8 @@
     "display_website": true
   },
   {
-    "package": "stackr",
-    "url": "https://github.com/epiforecasts/stackr",
+    "package": "lopensemble",
+    "url": "https://github.com/epiforecasts/lopensemble",
     "branch": "*release",
     "display_website": true
   },
