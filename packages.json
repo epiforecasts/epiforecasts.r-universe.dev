@@ -12,7 +12,7 @@
   {
     "package": "EpiNow2",
     "url": "https://github.com/epiforecasts/EpiNow2",
-    "branch": "*release",
+    "branch": "r-multiverse",
     "display_website": true
   },
   {
