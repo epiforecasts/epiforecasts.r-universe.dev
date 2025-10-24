@@ -12,7 +12,6 @@
   {
     "package": "EpiNow2",
     "url": "https://github.com/epiforecasts/EpiNow2",
-    "branch": "r-multiverse",
     "display_website": true
   },
   {
@@ -94,6 +93,11 @@
   {
     "package": "stanedit",
     "url": "https://github.com/epiforecasts/stanedit",
+    "branch": "*release"
+  },
+  {
+    "package": "EpiAwareR",
+    "url": "https://github.com/sbfnk/EpiAwareR",
     "branch": "*release"
   }
 ]
