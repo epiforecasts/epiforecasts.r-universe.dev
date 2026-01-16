@@ -20,11 +20,6 @@
     "branch": "*release"
   },
   {
-    "package": "covidregionaldata",
-    "url": "https://github.com/epiforecasts/covidregionaldata",
-    "branch": "*release"
-  },
-  {
     "package": "covid19.nhs.data",
     "url": "https://github.com/epiforecasts/covid19.nhs.data",
     "branch": "*release",
@@ -39,10 +34,6 @@
   {
     "package": "idbrms",
     "url": "https://github.com/epiforecasts/idbrms"
-  },
-  {
-    "package": "covid19.forecasts.uk",
-    "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
   },
   {
     "package": "forecast.vocs",
