@@ -79,5 +79,10 @@
     "package": "EpiAwareR",
     "url": "https://github.com/sbfnk/EpiAwareR",
     "branch": "*release"
+  },
+  {
+    "package": "forecastbaselines",
+    "url": "https://github.com/epiforecasts/forecastbaselines",
+    "branch": "*release"
   }
 ]
