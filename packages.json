@@ -84,5 +84,9 @@
     "package": "forecastbaselines",
     "url": "https://github.com/epiforecasts/forecastbaselines",
     "branch": "*release"
+  },
+  {
+    "package": "quantgen",
+    "url": "https://github.com/epiforecasts/quantgen"
   }
 ]
