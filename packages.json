@@ -86,7 +86,13 @@
     "branch": "*release"
   },
   {
+    "package": "contactsurveys",
+    "url": "https://github.com/epiforecasts/contactsurveys",
+    "branch": "*release"
+  },
+  {
     "package": "quantgen",
-    "url": "https://github.com/epiforecasts/quantgen"
+    "url": "https://github.com/epiforecasts/quantgen",
+    "subdir": "quantgen"
   }
 ]
