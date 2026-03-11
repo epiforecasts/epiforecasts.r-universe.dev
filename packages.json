@@ -91,6 +91,11 @@
     "branch": "*release"
   },
   {
+    "package": "ringbp",
+    "url": "https://github.com/epiforecasts/ringbp",
+    "branch": "*release"
+  },
+  {
     "package": "quantgen",
     "url": "https://github.com/epiforecasts/quantgen",
     "subdir": "quantgen"
