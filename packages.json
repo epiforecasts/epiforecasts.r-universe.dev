@@ -96,6 +96,10 @@
     "branch": "*release"
   },
   {
+    "package": "distspec",
+    "url": "https://github.com/epiforecasts/distspec"
+  },
+  {
     "package": "quantgen",
     "url": "https://github.com/epiforecasts/quantgen",
     "subdir": "quantgen"
