@@ -103,5 +103,10 @@
     "package": "quantgen",
     "url": "https://github.com/epiforecasts/quantgen",
     "subdir": "quantgen"
+  },
+  {
+    "package": "cfrnow",
+    "url": "https://github.com/epiforecasts/cfrnow",
+    "branch": "*release"
   }
 ]
