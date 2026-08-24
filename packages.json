@@ -83,12 +83,14 @@
   {
     "package": "forecastbaselines",
     "url": "https://github.com/epiforecasts/forecastbaselines",
-    "branch": "*release"
+    "branch": "*release",
+    "display_website": true
   },
   {
     "package": "contactsurveys",
     "url": "https://github.com/epiforecasts/contactsurveys",
-    "branch": "*release"
+    "branch": "*release",
+    "display_website": true
   },
   {
     "package": "ringbp",
@@ -97,7 +99,8 @@
   },
   {
     "package": "distspec",
-    "url": "https://github.com/epiforecasts/distspec"
+    "url": "https://github.com/epiforecasts/distspec",
+    "display_website": true
   },
   {
     "package": "quantgen",
