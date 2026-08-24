@@ -107,6 +107,7 @@
   {
     "package": "cfrnow",
     "url": "https://github.com/epiforecasts/cfrnow",
-    "branch": "*release"
+    "branch": "*release",
+    "display_website": true
   }
 ]
