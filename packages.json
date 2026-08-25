@@ -95,7 +95,8 @@
   {
     "package": "ringbp",
     "url": "https://github.com/epiforecasts/ringbp",
-    "branch": "*release"
+    "branch": "*release",
+    "display_website": true
   },
   {
     "package": "distspec",
