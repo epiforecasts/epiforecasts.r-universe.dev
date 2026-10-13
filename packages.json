@@ -113,5 +113,11 @@
     "url": "https://github.com/epiforecasts/cfrnow",
     "branch": "*release",
     "display_website": true
+  },
+  {
+    "package": "juliabridge",
+    "url": "https://github.com/epiforecasts/juliabridge",
+    "branch": "*release",
+    "display_website": true
   }
 ]
